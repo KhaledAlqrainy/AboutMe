@@ -1,0 +1,19 @@
+header {
+    background-color: darkcyan;
+}
+nav ul li  {
+    display: inline-block;
+}
+
+main {
+    background-color: lightcyan
+}
+
+p {
+  font-family: "Fantasy", Papyrus;
+  font-size: 40px
+}
+
+footer{
+    background-color: darkcyan;
+}

@@ -9,9 +9,14 @@ main {
     background-color: lightcyan
 }
 
-p {
+ main section {
   font-family: "Fantasy", Papyrus;
   font-size: 40px
+}
+
+main p {
+    color: darkred;
+    text-align: center;
 }
 
 footer{
